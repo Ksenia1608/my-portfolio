@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+    background-color: DeepPink ;
+    padding:10px;
+    font-size: 20px;
+    border-radius: 25px;
+    text-decoration:none;
+    color: black;
+}
+
+header{
+    display: flex;
+    background-color: aqua;
+    padding: 30px;
+    justify-content:space-around;
+}
+
+h1{
+    text-align: center;
+    color: deeppink;
+    font-size: 40px;
+}
+
+ul{
+    color: black;
+    font-size: 25px;
+}
+
+.link-header:hover{
+    background-color: aqua;
+}
+
+header:hover{
+    background-color: deeppink;
+}
+
+.text-big{
+    color: deeppink;
+    font-size: 25px;
+}
+
+main p{
+    border: 3px solid aqua;
+    background-color: aqua;
+    padding: 5px;
+}
